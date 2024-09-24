@@ -1,0 +1,14 @@
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.AssemblyInfoInputs.cache
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.AssemblyInfo.cs
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.csproj.CoreCompileInputs.cache
+C:\Su24b Program files\Dice21\Dice21\bin\Debug\net8.0\Dice21.exe
+C:\Su24b Program files\Dice21\Dice21\bin\Debug\net8.0\Dice21.deps.json
+C:\Su24b Program files\Dice21\Dice21\bin\Debug\net8.0\Dice21.runtimeconfig.json
+C:\Su24b Program files\Dice21\Dice21\bin\Debug\net8.0\Dice21.dll
+C:\Su24b Program files\Dice21\Dice21\bin\Debug\net8.0\Dice21.pdb
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.dll
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\refint\Dice21.dll
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.pdb
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\Dice21.genruntimeconfig.cache
+C:\Su24b Program files\Dice21\Dice21\obj\Debug\net8.0\ref\Dice21.dll
